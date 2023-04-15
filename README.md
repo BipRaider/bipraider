@@ -1,14 +1,14 @@
 **Languages**    
-![JavaScript Tag](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Tag](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript Tag](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-dfdfdf?style=for-the-badge&logoColor=000000&logo=Solidity)
 ![Golang Tag](https://img.shields.io/badge/Golang-007ACC?style=for-the-badge&logo=go&logoColor=white)
 
 **Frameworks, libraries, databases, technologies, API etc.**    
 ![Node Tag](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Express](https://img.shields.io/badge/Express-D8D8D8?style=for-the-badge&logo=express&logoColor=darkgreen) 
 ![Nest](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=nestjs&logoColor=red) 
+![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-464646?style=for-the-badge&logo=redux&logoColor=550055)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
