@@ -9,6 +9,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=green) 
 ![Nest](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=nestjs&logoColor=red) 
 ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron Tag](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB) 
 ![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-464646?style=for-the-badge&logo=redux&logoColor=550055)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
@@ -26,7 +27,7 @@
 ![Redis](https://img.shields.io/badge/Redis-dfdfdf?style=for-the-badge&logoColor=red&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-dfdfdf?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
 
-![Nx](https://img.shields.io/badge/Nx-000000?style=for-the-badge&logo=nx&logoColor=blue)
+![Nx](https://img.shields.io/badge/Nx-20232A?style=for-the-badge&logo=nx&logoColor=blue)
 ![Google](https://img.shields.io/badge/Google-838282?style=for-the-badge&logoColor=green&logo=google)
 ![Firebase](https://img.shields.io/badge/Firebase-838282?style=for-the-badge&logoColor=ffee02&logo=firebase)
 
