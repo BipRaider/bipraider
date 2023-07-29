@@ -20,7 +20,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0ea30e?style=for-the-badge&logo=mongodb&logoColor=darkgreen) 
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white) 
-nginx
+
 ![Docker](https://img.shields.io/badge/Docker-0dbaff?style=for-the-badge&logoColor=blue&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0dbaff?style=for-the-badge&logoColor=blue&logo=kubernetes)
 ![Nginx](https://img.shields.io/badge/nginx-339933?style=for-the-badge&logo=nginx&logoColor=white)
