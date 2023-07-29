@@ -31,4 +31,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BipRaider&langs_count=8&theme=tokyonight&layout=compact)]()
 <!-- 
 [](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/progfay/shields-with-icon/blob/master/Snippets.md
+https://github.com/progfay/shields-with-icon/tree/master
 -->
