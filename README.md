@@ -17,6 +17,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-464646?style=for-the-badge&logo=typeorm&logoColor=red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0ea30e?style=for-the-badge&logo=mongodb&logoColor=darkgreen) 
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ![Docker](https://img.shields.io/badge/Docker-0dbaff?style=for-the-badge&logoColor=blue&logo=docker)
 ![NATS](https://img.shields.io/badge/Nats-red?style=for-the-badge&logoColor=red&logo=nats)
