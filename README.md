@@ -20,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ![Docker](https://img.shields.io/badge/Docker-0dbaff?style=for-the-badge&logoColor=blue&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0dbaff?style=for-the-badge&logoColor=blue&logo=kubernetes)
 ![NATS](https://img.shields.io/badge/Nats-red?style=for-the-badge&logoColor=red&logo=nats)
 ![Redis](https://img.shields.io/badge/Redis-dfdfdf?style=for-the-badge&logoColor=red&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-dfdfdf?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
