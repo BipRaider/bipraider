@@ -27,8 +27,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0dbaff?style=for-the-badge&logoColor=blue&logo=kubernetes)
 ![Nginx](https://img.shields.io/badge/nginx-339933?style=for-the-badge&logo=nginx&logoColor=white)
 ![NATS](https://img.shields.io/badge/Nats-red?style=for-the-badge&logoColor=red&logo=nats)
-![Redis](https://img.shields.io/badge/Redis-dfdfdf?style=for-the-badge&logoColor=red&logo=redis)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-dfdfdf?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/Redis-464646?style=for-the-badge&logoColor=red&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-464646?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
 
 ![Nx](https://img.shields.io/badge/Nx-20232A?style=for-the-badge&logo=nx&logoColor=blue)
 ![Jest](https://img.shields.io/badge/Jest-464646?style=for-the-badge&logo=jest&logoColor=red)
