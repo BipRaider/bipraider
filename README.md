@@ -12,6 +12,8 @@
 ![Electron Tag](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB) 
 ![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-464646?style=for-the-badge&logo=redux&logoColor=550055)
+
+![Apollo](https://img.shields.io/badge/Apollo-000000?style=for-the-badge&logo=apollo+graphql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
 ![Prisma](https://img.shields.io/badge/Prisma-464646?style=for-the-badge&logo=prisma&logoColor=green)
