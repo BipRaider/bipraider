@@ -13,7 +13,6 @@
 ![Redux](https://img.shields.io/badge/Redux-464646?style=for-the-badge&logo=redux&logoColor=550055)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 
-
 ![Prisma](https://img.shields.io/badge/Prisma-464646?style=for-the-badge&logo=prisma&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0ea30e?style=for-the-badge&logo=mongodb&logoColor=darkgreen) 
