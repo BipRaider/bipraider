@@ -29,6 +29,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-dfdfdf?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
 
 ![Nx](https://img.shields.io/badge/Nx-20232A?style=for-the-badge&logo=nx&logoColor=blue)
+![Jest](https://img.shields.io/badge/Jest-464646?style=for-the-badge&logo=jest&logoColor=red)
 ![Google](https://img.shields.io/badge/Google-838282?style=for-the-badge&logoColor=green&logo=google)
 ![Firebase](https://img.shields.io/badge/Firebase-838282?style=for-the-badge&logoColor=ffee02&logo=firebase)
 
