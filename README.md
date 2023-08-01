@@ -8,9 +8,10 @@
 ![Node Tag](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=green) 
 ![Nest](https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=nestjs&logoColor=ff0000) 
+
+![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Electron Tag](https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB) 
-![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux-464646?style=for-the-badge&logo=redux&logoColor=550055)
 
 ![Apollo](https://img.shields.io/badge/Apollo-000000?style=for-the-badge&logo=apollo+graphql&logoColor=white)
