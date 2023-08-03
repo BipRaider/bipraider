@@ -31,9 +31,9 @@
 ![Redis](https://img.shields.io/badge/Redis-464646?style=for-the-badge&logoColor=ff0000&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-464646?style=for-the-badge&logoColor=ff7402&logo=rabbitmq)
 
-![Jest](https://img.shields.io/badge/Jest-464646?style=for-the-badge&logo=jest&logoColor=ff0000)
 ![Nx](https://img.shields.io/badge/Nx-20232A?style=for-the-badge&logo=nx&logoColor=blue)
 ![Ansible](https://img.shields.io/badge/ansible-464646?style=for-the-badge&logoColor=ff0000&logo=ansible)
+![Jest](https://img.shields.io/badge/Jest-464646?style=for-the-badge&logo=jest&logoColor=ff0000)
 ![Google](https://img.shields.io/badge/Google-838282?style=for-the-badge&logoColor=green&logo=google)
 ![Firebase](https://img.shields.io/badge/Firebase-838282?style=for-the-badge&logoColor=ffee02&logo=firebase)
 
